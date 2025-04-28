@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { /* useEffect, */ useState } from 'react'; // Remove useEffect if not used
 import { Container, Nav, Navbar } from "react-bootstrap";
 import "./navbar.css";
 import { Link } from "react-router-dom";
